@@ -12,13 +12,13 @@
 
 ## 🚀 About Me
 
-I'm and undergraduate at UF studying computer science. I'm very passionate about math and computing, and I'm looking to gain experience in the tech industry.
+I'm an undergraduate at UF studying computer science. I'm very passionate about math and computing, and I'm looking to gain experience in the tech industry.
 
 - 💡 Exploring Convololutional Neural Networks, Full-stack development, and Operating Systems.
 - 🔭 Currently working on: [Skill Roulette](https://github.com/Warnocke/Skill-Roulette)
 - 💭 Ask me about: **Music, Linear Algebra, Python!**
 - 🎸 Fun fact: **I love music. I can play 3 instruments so far.**
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=warnocke&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" /></p>
+
 ---
 
 ## 🧠 Skills & Expertise
@@ -33,4 +33,4 @@ graph TD;
   Tools-->Jira;
   Languages-->C++;
   Languages-->Python;
-  Languages-->C#;
+  Languages-->C;
