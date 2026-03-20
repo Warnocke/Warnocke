@@ -20,17 +20,3 @@ I'm an undergraduate at UF studying computer science. I'm very passionate about 
 - 🎸 Fun fact: **I love music. I can play 3 instruments so far.**
 
 ---
-
-## 🧠 Skills & Expertise
-
-```mermaid
-graph TD;
-  WebDev-->ReactJS;
-  WebDev-->CSS;
-  Backend-->NodeJS;
-  Backend-->ExpressJS;
-  Tools-->GitHub;
-  Tools-->Jira;
-  Languages-->C++;
-  Languages-->Python;
-  Languages-->C;
