@@ -14,7 +14,7 @@
 
 I'm an undergraduate at UF studying computer science. I'm very passionate about math and computing, and I'm looking to gain experience in the tech industry.
 
-- 💡 Exploring convololutional neural networks, full-stack development, and penetration testing.
+- 💡 Exploring multi-label CNNs and ViTs, full-stack development, and penetration testing.
 - 🔭 Currently working on: [ACM-checkin](https://github.com/uf-acm-design-team/ACM-checkin)
 - 💭 Ask me about: **Music, Math, or Python!**
 - 🎸 Fun fact: **I love music. I can play 3 instruments so far.**
